@@ -1,2 +1,3 @@
 # GVR-Project
-Graphics algorithms in VR using Unreal Engine 4.
+Graphics algorithms in VR using Unity engine with the Oculus Quest
+hand tracking plugin.
